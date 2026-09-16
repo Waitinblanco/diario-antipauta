@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-ink: #141310;
+  --color-ink-soft: #2c2923;
+  --color-paper: #f4efe6;
+  --color-paper-2: #e8dfd0;
+  --color-cream: #faf6ee;
+  --color-rule: #1b1914;
+  --color-muted: #6a6458;
+  --color-ia: #009ea3;
+  --color-ia-bright: #00d4d4;
+  --color-hot: #d61f1f;
+  --font-sans: var(--font-source);
+  --font-display: var(--font-newsreader);
+  --font-mono: var(--font-plex);
+}
+
+html {
+  background: #f4efe6;
+}
+
+body {
+  background:
+    radial-gradient(circle at 10% 0%, rgba(0, 158, 163, 0.05), transparent 40%),
+    radial-gradient(circle at 90% 10%, rgba(214, 31, 31, 0.04), transparent 36%),
+    #f4efe6;
+  color: #141310;
+  font-family: var(--font-source), "Source Sans 3", ui-sans-serif, system-ui, sans-serif;
+}
+
+::selection {
+  background: #00c4c8;
+  color: #141310;
+}
+
+a {
+  text-underline-offset: 3px;
+}
+
+.font-display {
+  font-family: var(--font-newsreader), "Newsreader", Georgia, "Times New Roman", serif;
+}
+
+.paper-grid {
+  background-image: linear-gradient(to right, rgba(20, 19, 16, 0.05) 1px, transparent 1px);
+  background-size: 25% 100%;
+}
