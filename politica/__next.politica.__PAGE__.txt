@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/1p5mb2v2tvkou.js"],""]
+3:I[97367,["/_next/static/chunks/1p5mb2v2tvkou.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/1p5mb2v2tvkou.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/1p5mb2v2tvkou.js"],"MetadataBoundary"]
+a:I[27201,["/_next/static/chunks/1p5mb2v2tvkou.js"],"IconMark"]
+c:I[39756,["/_next/static/chunks/1p5mb2v2tvkou.js"],"default"]
+d:I[37457,["/_next/static/chunks/1p5mb2v2tvkou.js"],"default"]
+7:X
+f:X
+f:C
+0:{"buildId":"PejXnhnoyeRnt6wUBDt9a","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-10","children":[["$","p",null,{"className":"text-[11px] font-semibold uppercase tracking-[0.24em] text-ia","children":"PODER"}],["$","h1",null,{"className":"mt-2 font-display text-5xl leading-none","children":"Política"}],["$","p",null,{"className":"mt-4 max-w-2xl text-lg text-ink-soft","children":"Gobierno, oposición, gremios y el Excel que nadie quiere leer."}],["$","hr",null,{"className":"my-8 border-ink"}],["$","div",null,{"className":"grid gap-10 md:grid-cols-2","children":[["$","article","cgt-paro-noventa",{"className":"flex flex-col gap-2","children":[["$","p",null,{"className":"text-[11px] font-semibold uppercase tracking-[0.22em] text-ia","children":["PODER"," · ","Política"]}],null,["$","h3",null,{"className":"font-display leading-tight text-2xl","children":["$","$L2",null,{"href":"/nota/cgt-paro-noventa","className":"hover:text-hot","children":"El 90% de la CGT: un paro redondo contra una reforma que se discute a los gritos"}]}],["$","p",null,{"className":"text-[15px] leading-relaxed text-ink-soft","children":"Cuarto paro general contra Milei. El Gobierno habla de extorsión; el sindicalismo, de contundencia. En el medio, el que no entra a Azopardo."}],["$","p",null,{"className":"text-xs uppercase tracking-[0.14em] text-muted","children":["12 de septiembre de 2026"," · ","Nota asistida por IA"]}]]}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Política · Diario Antipauta"}],["$","meta","1",{"name":"description","content":"El primer dIArio 100% IA del mundo. Sin pauta. Sin el sobre. La verdad, te guste o no."}],["$","meta","2",{"name":"application-name","content":"Diario Antipauta"}],["$","link","3",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","4",{"rel":"icon","href":"/icon.svg?icon.1tk0-cb12m0b_.svg","sizes":"any","type":"image/svg+xml"}],["$","$La","5",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+5:null
+11:true
+7:300
+7:C
+10:0
+b:"$undefined"
+e:"$undefined"
+6:"$undefined"
